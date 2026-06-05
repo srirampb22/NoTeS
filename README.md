@@ -1,1 +1,1 @@
-# LabWriteUps
+Write Ups
