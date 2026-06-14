@@ -1,0 +1,11 @@
+# IAM (Identity Access Management)
+### Why
+Basically this is just like *Active Directory* in Windows Server to handle users easily in enterprise architecture.**IAM** 
+basically create users and handle and monitor easily.  
+### What
+In **IAM** we have can create *Users*, *Groups*, *Roles* etc., and also maintain *Permission Boundaries/SCPs* basically 
+segregating each user type in groups and monitor everything without much cluster or hassle free maintenance
+### How
+Once we get **Root Account** access which has no restrictions has all access where you can monitor everything and have access over all 
+and not have any restrictions on anything, including deleting account so it is suggested that to create a *IAM User* with *Administrative Access* 
+so if you even lose access you have root account to recover.
